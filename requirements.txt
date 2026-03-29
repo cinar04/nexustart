@@ -1,0 +1,6 @@
+PyQt6>=6.4.0
+pywin32>=305
+winshell>=0.6
+psutil>=5.9.0
+qrcode[pil]>=7.4
+pillow>=10.0.0
